@@ -3,3 +3,4 @@ I have created a basic dataset for Tankri(Indic Script) using handwritten sample
 More samples can be created using joiner.py in src folder.
 The Tankri Font is included.
 Link to the original repo : https://github.com/githubharald/SimpleHTR
+Link for the samples: https://drive.google.com/open?id=1eMkjoA3DhSsUMV2-VK2T86f9Uuwfvfm_
